@@ -5,7 +5,7 @@
 
   "keyLength": 10,
 
-  "maxLength": 400000,
+  "maxLength": 40000,
 
   "staticMaxAge": 86400,
 
@@ -26,7 +26,7 @@
   "rateLimits": {
     "categories": {
       "normal": {
-        "totalRequests": 500,
+        "totalRequests": 50,
         "every": 60000
       }
     }
